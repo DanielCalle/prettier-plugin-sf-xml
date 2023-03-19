@@ -1,3 +1,7 @@
-node_modules
-.vscode-test/
-*.vsix
+/.eslintcache
+/coverage/
+/src/languages.js
+/dist/
+/node_modules/
+/test.xml
+/test/__snapshots__
